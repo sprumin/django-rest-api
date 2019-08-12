@@ -1,4 +1,4 @@
-# django-rest-api
+# Django-rest-api
 
 ### Django 를 이용한 RESTFUL API 제작
 
