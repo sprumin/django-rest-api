@@ -89,3 +89,4 @@ Python3, Django 2.0  설치되어있다는 가정하에 작성하였습니다.
 - [x] ~~header에 authorization 삽입 후 전송 시 일정 확률로 0 request error 뜨는 버그~~ 일시적인 버그였음
 - [x] API KEY 인증 decorator 작성
 - [ ] Query 최적화
+- [ ] DRF 를 사용하여 구현
