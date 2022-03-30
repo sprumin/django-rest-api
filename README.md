@@ -2,7 +2,7 @@
 
 ### Django 를 이용한 RESTFUL API 제작
 
-django-rest-framework 를 사용하지않은 프로젝트입니다.
+django-rest-framework 를 사용하지않은 프로젝트입니다. 
 Python3, Django 2.0  설치되어있다는 가정하에 작성하였습니다.
 
 
